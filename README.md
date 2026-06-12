@@ -28,27 +28,23 @@
 ---
 
 <!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## About Me
 
 ```js
 const princeSalman = {
     role: "Full-Stack Web Developer",
-    status: "🎓 Student",
+    status: "Student",
     code: ["PHP", "JavaScript", "TypeScript", "HTML", "CSS"],
     frameworks: ["Laravel", "Next.js", "React"],
-    tools: ["Git", "VS Code", "Figma"],
-    currentFocus: "Building modern & scalable web applications",
-    funFact: "I turn coffee into code ☕ → 💻"
+    tools: ["Git", "VS Code", "Figma"]
 };
 ```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-salman&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=8b949e&langs_count=6" width="280" alt="Top Languages"/>
 
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Learning **Advanced Laravel & Modern Frontend**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/prince-salman)
-- 💬 Ask me about **Laravel, TypeScript, React, Next.js**
-- ⚡ Fun fact: *Code is like humor — when you have to explain it, it's bad!*
+- Currently building web apps with **Laravel** and **Next.js**
+- Learning more about **scalable backend architecture**
+- Open to collaborate on interesting projects
 
 <br clear="right"/>
 
@@ -135,35 +131,9 @@ const princeSalman = {
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 <!-- FOOTER -->
 <div align="center">
 
-### 🤝 &nbsp;Let's Connect!
-
-<p>
-  <a href="https://github.com/prince-salman">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer"/>
 
-</div>
-
-<!-- CREDITS -->
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/prince-salman">prince-salman</a> with 💜</sub>
 </div>
