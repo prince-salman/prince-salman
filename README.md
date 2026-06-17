@@ -105,6 +105,18 @@ const salman = {
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer"/>
 </div>
