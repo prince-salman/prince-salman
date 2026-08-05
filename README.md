@@ -29,7 +29,7 @@
 <h2 align="center">⚡ // SYSTEM_STACK</h2>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td align="center" width="50%">
         <h4>🌐 Frontend & Languages</h4>
@@ -49,21 +49,44 @@
 <h2 align="center">📊 // METRICS_OVERVIEW</h2>
 
 <div align="center">
-  <table border="0">
+  <table width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=prince-salman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/REPOSITORIES-9_PUBLIC-00f0ff?style=for-the-badge&labelColor=0d1117&logo=github" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince-salman&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats"/>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/PRIMARY_STACK-LARAVEL_%7C_TS-f700ff?style=for-the-badge&labelColor=0d1117&logo=laravel" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/ROLE-FULLSTACK_DEV-00f0ff?style=for-the-badge&labelColor=0d1117&logo=codefactor" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/FOCUS-WEB_ARCHITECTURE-f700ff?style=for-the-badge&labelColor=0d1117&logo=react" />
       </td>
     </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-salman&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" width="100%" alt="Top Languages"/>
+      <td width="50%" valign="top">
+        <h4 align="center">💻 Primary Language Distribution</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <b>40%</b> &nbsp;
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <b>35%</b> &nbsp;
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <b>15%</b> &nbsp;
+          <img src="https://img.shields.io/badge/Blade/HTML-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <b>10%</b>
+        </p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=prince-salman&theme=radical&no-bg=true&column=3&margin-w=10" width="100%" alt="GitHub Trophies"/>
+      <td width="50%" valign="top">
+        <h4 align="center">🎯 Core Competencies</h4>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Full_Stack_Development-00f0ff?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/REST_API_Design-f700ff?style=flat-square&labelColor=0d1117" /><br/>
+          <img src="https://img.shields.io/badge/Database_Management-00f0ff?style=flat-square&labelColor=0d1117" />
+          <img src="https://img.shields.io/badge/Responsive_UI_UX-f700ff?style=flat-square&labelColor=0d1117" />
+        </p>
       </td>
     </tr>
   </table>
@@ -76,63 +99,63 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📅 Scheduly</h3>
-      <p align="center">Smart Scheduling & Activity Management Application.</p>
+      <p align="center">Smart Scheduling & Activity Management Application built for high productivity.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/prince-salman/Scheduly"><b>View Repository ➔</b></a>
+        <a href="https://github.com/prince-salman/Scheduly">
+          <img src="https://img.shields.io/badge/EXPLORE_REPO-00f0ff?style=for-the-badge&labelColor=0d1117&logo=github" />
+        </a>
       </p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=prince-salman&repo=Scheduly&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Portfolio Salman</h3>
-      <p align="center">Personal Developer Portfolio Web Application.</p>
+      <p align="center">Modern Personal Developer Portfolio showcase web application.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/prince-salman/portofolio_salman"><b>View Repository ➔</b></a>
+        <a href="https://github.com/prince-salman/portofolio_salman">
+          <img src="https://img.shields.io/badge/EXPLORE_REPO-f700ff?style=for-the-badge&labelColor=0d1117&logo=github" />
+        </a>
       </p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=prince-salman&repo=portofolio_salman&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📸 SnapBooth</h3>
-      <p align="center">Interactive Photo Booth Web Application.</p>
+      <p align="center">Interactive Photo Booth Web Application with custom filters and frames.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/prince-salman/SnapBooth"><b>View Repository ➔</b></a>
+        <a href="https://github.com/prince-salman/SnapBooth">
+          <img src="https://img.shields.io/badge/EXPLORE_REPO-f700ff?style=for-the-badge&labelColor=0d1117&logo=github" />
+        </a>
       </p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=prince-salman&repo=SnapBooth&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🗣️ SuaraHati</h3>
-      <p align="center">Community & Voice Expression Platform.</p>
+      <p align="center">Community & Voice Expression Platform for anonymous open sharing.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </p>
       <p align="center">
-        <a href="https://github.com/prince-salman/SuaraHati"><b>View Repository ➔</b></a>
+        <a href="https://github.com/prince-salman/SuaraHati">
+          <img src="https://img.shields.io/badge/EXPLORE_REPO-00f0ff?style=for-the-badge&labelColor=0d1117&logo=github" />
+        </a>
       </p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=prince-salman&repo=SuaraHati&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -141,16 +164,9 @@
 
 ---
 
-<!-- DATA TRANSMISSION / ACTIVITY GRAPH -->
-<h2 align="center">📡 // DATA_TRANSMISSION</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-salman&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
 <!-- SNAKE ANIMATION -->
+<h2 align="center">🐍 // CONTRIBUTION_ACTIVITY</h2>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prince-salman/prince-salman/output/github-snake-dark.svg" />
